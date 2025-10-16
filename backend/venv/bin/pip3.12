@@ -1,4 +1,4 @@
-#!/Users/youseffgarcia/Desktop/pokedex-project/backend/venv/bin/python3.12
+#!/Users/youseffgarcia/Desktop/pokedex-project/venv/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys
