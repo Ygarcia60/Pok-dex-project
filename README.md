@@ -6,8 +6,12 @@ Full-stack Pokédex web app.
 - **Status:** Core Pokédex browsing working. In progress: type-based color themes, search bar, and top-5 most valuable TCG cards per Pokémon with price field.
 
 ## Run locally
-
 ### Backend
+- uvicorn main:app --reload
+
+### Frontend
+- npm install
+- npm start
 
 ## Roadmap
 - [ ] Type-based card colors
