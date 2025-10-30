@@ -127,7 +127,7 @@ function App() {
                 <p className="text-xs text-yellow-300">{card.rarity}</p>
                 {card.price && (
                   <p className="text-sm text-green-400 font-semibold mt-1">
-                    Price: <span className="font-bold">${card.price}</span>
+                    Price 💰 ${card.price.toFixed(2)}
                   </p>
                 )}
               </div>
